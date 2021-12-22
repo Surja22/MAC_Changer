@@ -8,4 +8,6 @@ please run this script on linux machine
 used package =>
 1. subprocess
 2. re
-3. 
+3. optparse
+
+So, kidly install those packages in your machine before run
